@@ -1,10 +1,10 @@
-# WBA2SS16SchüßlerUlrich
+#### WBA2SS16SchüßlerUlrich
 
 Teamname: Bladerunners
 
-Gruppenmitglieder:  Janek Schüßler\n
-                    Jay Schüßler\n
-                    Severin Ulrich\n
+Gruppenmitglieder:  Janek Schüßler
+                    Jay Schüßler
+                    Severin Ulrich
                     
             
 Email-Adressen:     janek.schuessler@gmail.com|

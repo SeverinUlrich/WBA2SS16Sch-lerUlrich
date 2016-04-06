@@ -2,9 +2,9 @@
 
 Teamname: Bladerunners
 
-Gruppenmitglieder:  Janek Schüßler|
-                    Jay Schüßler|
-                    Severin Ulrich
+Gruppenmitglieder:  Janek Schüßler\n
+                    Jay Schüßler\n
+                    Severin Ulrich\n
                     
             
 Email-Adressen:     janek.schuessler@gmail.com|

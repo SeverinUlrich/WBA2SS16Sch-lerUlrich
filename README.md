@@ -1,4 +1,4 @@
-####WBA2SS16SchüßlerUlrich
+WBA2SS16SchüßlerUlrich
 ======
 
 Teamname: Bladerunners

@@ -5,8 +5,12 @@ WBA2SS16SchüßlerUlrich
 
 ======
 
-Gruppenmitglieder und Email-Adressen:  
+###### Gruppenmitglieder und Email-Adressen:  
 
-Janek Schüßler
-Jay Schüßler
-Severin Ulrich
+======
+
+|Janek Schüßler|janek.schuessler@gmail.com|
+|Jay Schüßler  |jay.schuessler@gmail.com  |
+|Severin Ulrich|ulrich.sev@gmail.com      |
+
+======

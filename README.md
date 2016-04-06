@@ -9,8 +9,8 @@ WBA2SS16SchüßlerUlrich
 
 ======
 
-|Name          |Email                     |
-|..............|:........................:|
+|Name          |Email                     | 
+|--------------|:------------------------:|
 |Janek Schüßler|janek.schuessler@gmail.com|
 |Jay Schüßler  |jay.schuessler@gmail.com  |
 |Severin Ulrich|ulrich.sev@gmail.com      |

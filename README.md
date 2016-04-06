@@ -1,13 +1,11 @@
 WBA2SS16SchüßlerUlrich
 ======
 
-###### Teamname: Bladerunners
+# Teamname: Bladerunners
 
 ======
 
 ###### Gruppenmitglieder und Email-Adressen:  
-
-======
 
 |Name          |Email                     | 
 |--------------|:------------------------:|

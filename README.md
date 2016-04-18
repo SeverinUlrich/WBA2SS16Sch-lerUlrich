@@ -2,10 +2,20 @@
 
 Teamname: Bladerunners
 
-Gruppenmitglieder:  Janke Schüßler
+Gruppenmitglieder:  Janek Schüßler
+
+
                     Jay Schüßler
+       
+       
                     Severin Ulrich
                     
 
-Email-Adressen:     ulrich.sev@googlemail.com|severin.ulrich@smail.th-koeln.de
+Email-Adressen:     jay.schuessler@gmail.com
                     
+                    janek.schuessler@gmail.com
+                   
+                    ulrich.sev@googlemail.com
+                    
+                    
+Projektidee: Blackjack Spiel und Chanchenrechner im live Betrieb

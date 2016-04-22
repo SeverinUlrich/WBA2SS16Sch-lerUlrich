@@ -1,5 +1,4 @@
-{
-   "wolkenkratzer":[
+[
       {
          "name":"Shanghai Tower",
          "stadt":"Shanghai",
@@ -51,4 +50,4 @@
          "hoehe":601
       }
    ]
-}
+

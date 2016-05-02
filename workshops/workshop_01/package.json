@@ -1,0 +1,24 @@
+{
+  "name": "workshop_01",
+  "version": "0.0.1",
+  "description": "Workshop01",
+  "main": "aufgabe1.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeverinUlrich/WBA2SS16Sch-lerUlrich.git"
+  },
+  "author": "Janek Schüßler, Jay Schüßler, Severin Ulrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeverinUlrich/WBA2SS16Sch-lerUlrich/issues"
+  },
+  "homepage": "https://github.com/SeverinUlrich/WBA2SS16Sch-lerUlrich#readme"
+}
